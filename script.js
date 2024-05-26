@@ -83,7 +83,6 @@ class Book {
 
 ////////////////////////  2
 
-let num = 0;
 
 class Account {
   constructor(id, name, balance) {
